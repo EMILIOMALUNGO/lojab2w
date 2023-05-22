@@ -1,0 +1,79 @@
+.header,main,foot{
+    margin:0 auto;
+    padding:1vw;
+    font-size:1.2vw;
+    font-size:min(255px, 1.5vw);
+    }
+
+
+
+.Cadeado{
+    margin-top: 50px;
+}
+.CadeadoFX2000AJ{
+    display: flex;
+padding-inline-start: 50px;
+padding-inline-end: 50px;
+}
+
+.margemFX2000AJ{
+    margin-top: 50px;
+}
+
+.fotoFX2000AJ:hover > :not(:hover){
+    opacity: .4;
+    transform: scale(0.9);
+}
+.fotoFX2000AJ{
+    margin-top: 50px;
+}
+.fotoFX2000AJ img{ 
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    position: relative;
+    border-width: 2px;
+    border-color: rgb(0, 134, 255);
+    border-style: solid;
+    border-radius: 6px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    transition: .35s;    
+}
+.precoFX2000AJ{
+    font-family: Roboto, sans-serif;
+  padding-inline-start: 120px;     
+}
+.botao12{
+
+    padding: 15px;
+    background:#4fb327be;
+    border-radius: 5px;   
+    justify-content: center;
+    text-align: center;
+    color: white;  
+}
+.icon{
+color:rgba(255, 255, 255, 0.74);
+}
+
+.botao134{
+
+    padding: 15px;
+    background:#4fb327be;
+    border-radius: 5px;   
+    justify-content: center;
+    text-align: center;
+    color: white;  
+}
+.legend1{
+    margin-inline-end: 40;
+    margin-top: 70px;
+ display:block;
+}
+.legend1 legend{
+    padding-inline-start: 40px;
+}

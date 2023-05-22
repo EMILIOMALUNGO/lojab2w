@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 0;
+ }
+ header, main, footer {
+	margin: 0 auto;
+	padding: 1vw;
+	font-size: 1.2vw;
+	font-size: min(50px, 1.5vw);
+} 
+    footer{
+     
+        background:linear-gradient(#121212, #69F54C);
+    
+    }
+    .container11{
+    display: flex;
+    
+}
+.container2{
+    margin-top: 30px;
+    display:flex;
+ gap: 4px;
+}
+.imagemtotal img {
+    width: 100;
+    height: 50px;
+    border-radius: 5px;
+}
+.testo1{
+    color:white;
+    font-size: 10px; 
+}
+.testo1 > h1 {
+    color:white;
+    font-size: 15px; 
+    margin-right: 50px;
+}
+.container3{
+
+ margin-inline-start: 20px;
+         
+ }
+    .container4{
+        margin-inline-start:120px ;
+    }
+    .container5{
+        gap: 40px;
+        display: flex;
+        margin-top: 30px;
+    }
+  .fotoimagem img{
+    width: 50px;
+    border-radius: 10px;
+  }
+  .fotoimagem p{
+    color: white;
+    font-size: 12px;
+  } 
+
+   
+    .testo{
+        color:white;
+    }
+    .testo2{
+        margin-top: 25px;
+        color:white;
+        font-size: 14px; 
+    }
+ .comeco{
+    margin-top: 30px;
+ }
+ .redes1 a{
+    margin-right: 10px;
+  
+}
+.cnpj{
+    margin-top: 30px;
+    color: white;
+    font-size: 15px;
+}
+.colocarlink {
+ display: flex;
+margin-top:20px;
+gap:100px;
+font-size: 15px;
+color: white;
+}
+.link{
+    font-size:13px;
+}

@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+ }
+ .header,main,foot{
+  margin:0 auto;
+  padding:1vw;
+  font-size:1.2vw;
+  font-size:min(16px, 1.5vw);
+  }
+ .Politicatroca {
+   margin-top: 30px;
+   padding: 30px;
+   margin-bottom: 40px;
+ }
+ .Politicatroca > h2{
+  justify-content: center;
+ align-items: center;
+   color: brown;
+    font-size: 22px;
+    padding-inline-start: 40px;
+    margin-bottom: 15px;
+ }
+ .Politicatroca > h1{
+    font-size: 25px;
+   text-align: center;
+   align-items: center;
+   color: #121212;
+  
+ }

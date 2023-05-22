@@ -1,0 +1,69 @@
+
+
+
+.lampadaVIP7250BIA{
+    display: flex;
+    padding-inline-start: 50px;
+    padding-inline-end: 50px;
+}
+
+.fotoVIP7250BIA:hover > :not(:hover){
+opacity: .4;
+transform: scale(0.9);
+}
+ 
+.fotoVIP7250BIA img{ 
+    margin-top: 20px;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    position: relative;
+    border-width: 2px;
+    border-color: rgb(0, 134, 255);
+    border-style: solid;
+    border-radius: 6px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    transition: .35s;    
+}
+.precoVIP7250BIA{
+    font-family: Roboto, sans-serif;
+  padding-inline-start: 120px;     
+}
+.botao12{
+    padding: 15px;
+    background:#4fb327be;
+    border-radius: 5px;   
+    justify-content: center;
+    text-align: center;
+    color: white;  
+}
+.icon{
+color:rgba(255, 255, 255, 0.74);
+}
+
+.botao134{
+margin-top: 10px;
+    padding: 15px;
+    background:#4fb327be;
+    border-radius: 5px;   
+    justify-content: center;
+    text-align: center;
+    color: white;  
+}
+.containerVIP7250BIA{
+    margin-top: 80px;
+   margin-inline-start: 60px;
+}
+.legend5{
+    padding-inline-start: 40px;
+    margin-top: 70px;
+}
+
+.legend5 legend{
+    padding-inline-start: 20px;
+   
+}

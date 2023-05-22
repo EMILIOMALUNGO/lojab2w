@@ -1,0 +1,80 @@
+
+
+.InterfoneIV710HS{
+    display: flex;
+padding-inline-start: 50px;
+padding-inline-end: 50px;
+}
+
+.foto1IV710HS{
+    width: 300px;
+    height: 300px;
+    margin-inline-start: 70px;
+}
+
+.margemIV710HS{
+    margin-top: 30px;
+   
+}
+
+.fotoIV710HS:hover > :not(:hover){
+    opacity: .4;
+    transform: scale(0.9);
+}
+
+.fotoIV710HS img{ 
+
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    position: relative;
+    border-width: 2px;
+    border-color: rgb(0, 134, 255);
+    border-style: solid;
+    border-radius: 6px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    transition: .35s;    
+}
+.precoIV710HS{
+    font-family: Roboto, sans-serif;
+  padding-inline-start: 120px;     
+}
+.botao12{
+    padding: 15px;
+    background:#4fb327be;
+    border-radius: 5px;   
+    justify-content: center;
+    text-align: center;
+    color: white;  
+}
+.icon{
+color:rgba(255, 255, 255, 0.74);
+}
+
+.botao134{
+    padding: 15px;
+    background:#4fb327be;
+    border-radius: 5px;   
+    justify-content: center;
+    text-align: center;
+    color: white;  
+}
+
+.legend9 {
+    padding-inline-start: 40px;
+    margin-top: 100px;
+}
+
+.legend9 legend{
+    padding-inline-start: 20px;
+   
+}
+
+
+
+
+

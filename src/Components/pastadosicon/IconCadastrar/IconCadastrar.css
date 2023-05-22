@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.IconCadastrar{
+    justify-content: center;
+    align-items: center;
+  
+    margin-top: 30px;
+
+}
+.IconCadastrar legend {
+    margin-bottom: 80px;
+    text-align: center;
+    justify-content: center;
+    color:#3ea724;
+}
+.IconCadastrar1{
+    display: flex;
+    gap: 150px;
+     padding-inline-start: 100px;
+        
+}
+.IconCadastrar2 h2{
+    font-size: 25px;
+    color:#2C37DB;
+    margin-bottom: 20px;
+}
+.IconCadastrar2 button{
+   margin-top: 20px;
+   background-color: #37be5fb4;
+   color: white;
+   width: 75%;
+   margin-inline-start: 55px; 
+   margin-bottom: 25px; 
+}
+.IconCadastrar2 p{
+    margin-inline-start: 45px;   
+ }
+ .IconCadastrar3 h2{
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+    color:#2C37DB;
+    margin-bottom: 20px;
+ }
+ .IconCadastrar3 span {
+margin-top: 20px;
+margin-inline-start: 85px; 
+ }
+ .IconCadastrar3 button{
+    background-color: #37be5fb4;
+    color: white;
+    width: 56%;
+    margin-inline-start: 150px; 
+    margin-bottom: 15px;  
+ }
+ .IconCadastrar3 p{
+    margin-inline-start: 95px; 
+ }
+ .IconCadastrar4{
+    margin-top: 60px;
+    text-align: center;
+    align-items: center;
+ }
+ .IconCadastrar5{
+    padding: 50px;
+    font-size: 15px;
+    text-align: center;
+   align-items: center;
+    background-color: rgba(29, 172, 172, 0.233);
+ }

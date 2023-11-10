@@ -78,6 +78,7 @@ margin-top:2px;
 .preco1 a{
     display: inline-block;
     text-decoration:none;
+      
 }
 .preco1{
     text-decoration: none;
@@ -87,7 +88,7 @@ margin-top:2px;
     display: flex;
     gap: 25px;
     font-size: 13px;
-   padding-inline-start:20px;
+   padding-inline-start:80px;
  
 }
 .preco1 h1{
@@ -95,8 +96,8 @@ margin-top:2px;
     text-decoration: none;
 }
 .preco1 p{
-    font-size: 13px;
-    justify-content: space-between;  
+
+   justify-content: space-between;  
     text-decoration: none;  
 }
 .preco2 {
